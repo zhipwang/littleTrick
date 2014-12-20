@@ -4,13 +4,13 @@ from time import sleep
 import urllib2, urllib, cookielib, json, sys, random
 
 
-APP_KEY = '1720164637'
-APP_SECRET = 'a40b8025a79ec62dde717f6ca5a103d1'
-CALLBACK_URL = 'http://mss.sjtu.edu.cn'
+APP_KEY = ''
+APP_SECRET = ''
+CALLBACK_URL = ''
 AUTH_URL = 'https://api.weibo.com/oauth2/authorize'
-USER_ID = '979561321@qq.com'
-PASSWORD = '15800982883'
-UID = '2106510584'
+USER_ID = ''
+PASSWORD = ''
+UID = ''
 DICTIONARY = 'dictionary.txt'
 WEIBO_COUNT = 20
 #COMMENT = "好好学习，别刷微博"
